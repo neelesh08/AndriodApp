@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="email">Email</string>
+    <string name="your_password">Your password</string>
+    <string name="your_email_id">Your email id</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign-up</string>
+    <string name="signup">signup</string>
+
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up2">sign up2</string>
+
+
+    <string name="name">Name</string>
+    <string name="log_in3">log-in</string>
+    <string name="your_name">Your name</string>
+    <string name="signup2">sign up</string>
+    <string name="signinin">Sign Up</string>
+    <string name="create_account">Create account</string>
+    <string name="name2">Name</string>
+
+
+</resources>
